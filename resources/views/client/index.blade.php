@@ -2042,7 +2042,7 @@
                 <div class="download-app">
                     <div class="col-md-6 col-sm-8 app-google">
                         <h3>Đặt xe sân bay, xe tỉnh, xe tour</h3>
-                        <h2>TaxiGo kết nối muôn nơi</h2>
+                        <h2>Dat-xe.vn kết nối muôn nơi</h2>
                         <h4>Nhận nhiều ưu đãi hơn nữa khi đặt xe qua ứng dụng</h4>
                     </div>
                     <div class="col-md-6 col-sm-4 app-datxe">
@@ -2126,7 +2126,7 @@
             </a>
         </div>
     </div>
-    <section class="section-datxengay2" class="block" style="background: url('/images/bg-banner3.jpg');">
+    <!-- <section class="section-datxengay2" class="block" style="background: url('/images/bg-banner3.jpg');">
         <div class="container ">
             <div class="row row-download-app">
                 <div class="download-app">
@@ -2151,7 +2151,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <div class="container">
         <div class="form-title">
             <h2 class="padding40">Bạn cần thuê xe ở đâu</h2><span>&nbsp;</span>
@@ -2265,21 +2265,7 @@
                     <a href="#"><img src="https://taxigo.vn//images/doitac6.png" alt="Cinque Terre"></a>
                 </div>
             </div>
-            <div class="row video">
-                <div class="col-md-12 banner-bg">
-                    <div id="slider">
 
-                        <!-- (1) video wrapper -->
-                        <div class="youtube" data-embed="Tua5mP3Hv6k">
-
-                            <!-- (2) the "play" button -->
-                            <div class="play-button"></div>
-
-                        </div>
-                    </div>
-                </div>
-
-            </div>
         </div>
     </section>
     <div class="container">
@@ -2383,7 +2369,7 @@
                     <div class="row">
                         <div class="col-md-12">
                             <img alt="Taxi Nội Bài" alt="Taxi Nội Bài" id="logo-footer"
-                                src="https://taxigo.vn/images/logo.png">
+                                src="/client/img/logo.jpg" style="width:140px; height: 60px;">
                         </div>
                         <div class="col-md-12 col-xs-12" class="intro-li">
                             <ul class="intro-ul">
@@ -2450,7 +2436,7 @@
                         Liên Minh. Công ty cam kết dịch vụ Taxi Sân Bay, đi tỉnh đường dài, du lịch bằng dòng xe đầu từ
                         mới 100%, dòng xe 4,7,16,29,25 chỗ sang trọng với chính sách giá cam kết rẻ nhất và chất lượng
                         phục vụ tốt nhất.</p>
-                    <ul>
+                    <!-- <ul>
                         <li>
                             <a href="https://itunes.apple.com/vn/app/taxigo-kh%C3%A1ch-h%C3%A0ng/id1449441401?mt=8"
                                 title="App Store" class="btn-gfort-image">
@@ -2463,7 +2449,7 @@
                                 <img src="https://taxigo.vn//images/app2.png" alt="Google Play">
                             </a>
                         </li>
-                    </ul>
+                    </ul> -->
                 </div>
 
             </div>
