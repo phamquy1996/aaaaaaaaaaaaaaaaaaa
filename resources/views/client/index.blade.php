@@ -2181,7 +2181,7 @@
             <div class="phonering-alo-ph-circle-1"></div>
             <div class="phonering-alo-ph-circle-fill-1"></div>
             <div class="phonering-alo-ph-img-circle-1">
-                <a class="pps-btn-img-1 " title="Liên hệ" href="#" onclick="show_chat()"> <img
+                <a class="pps-btn-img-1 " title="Liên hệ" href="https://zalo.me/0329188155" target="_blank"> <img
                         src="/client/img/aaa-removebg-preview.png" alt="Liên hệ" width="50" class="img-responsive" />
                 </a>
             </div>
