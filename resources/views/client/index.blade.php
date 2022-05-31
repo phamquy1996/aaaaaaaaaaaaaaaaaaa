@@ -130,16 +130,13 @@
     </script>
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-143288619-1"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-QQMY7BB8BR"></script>
     <script>
     window.dataLayer = window.dataLayer || [];
-
-    function gtag() {
-        dataLayer.push(arguments);
-    }
+    function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
 
-    gtag('config', 'UA-143288619-1');
+    gtag('config', 'G-QQMY7BB8BR');
     </script>
     <!-- Facebook Pixel Code -->
     <script>
