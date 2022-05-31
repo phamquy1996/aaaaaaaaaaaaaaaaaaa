@@ -280,8 +280,7 @@
                                         <ul class="nav nav-tabs" id="label-booking" role="tablist">
                                             <li class="nav-item active">
                                                 <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home"
-                                                    role="tab" aria-controls="home" aria-selected="true">Đặt xe trực
-                                                    tuyến</a>
+                                                    role="tab" aria-controls="home" aria-selected="true">ĐẶT XE : 03999 10005</a>
                                             </li>
                                             <div class="tab-content" id="myTabContentCar">
                                                 <div class="tab-pane fade in active" id="home" role="tabpanel"
