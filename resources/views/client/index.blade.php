@@ -1843,20 +1843,20 @@
             <div class="doitac">
                 <div class="item">
                     <a
-                        href="http://cafef.vn/startup-viet-tiet-lo-bi-quyet-giup-gia-cuoc-thap-hon-uber-grab-2017082515444677.chn"><img
+                        href="#"><img
                             src="https://taxigo.vn//images/doitac1.png" alt="Cinque Terre"></a>
                 </div>
                 <div class="item">
-                    <a href="https://www.youtube.com/watch?v=Tua5mP3Hv6k"><img
+                    <a href="#"><img
                             src="https://taxigo.vn//images/doitac2.png" alt="Cinque Terre"></a>
                 </div>
                 <div class="item">
-                    <a href="http://kinhtedothi.vn/taxigo-ung-dung-dat-xe-tim-xe-duong-dai-gia-re-296453.html"><img
+                    <a href="#"><img
                             src="https://taxigo.vn//images/doitac3.png" alt="Cinque Terre"></a>
                 </div>
                 <div class="item">
                     <a
-                        href="https://ciresearch.com.vn/cac-ung-dung-dat-xe-dang-co-mat-tai-thi-truong-viet-nam-bid44.html"><img
+                        href="#"><img
                             src="https://taxigo.vn//images/doitac4.png" alt="Cinque Terre"></a>
                 </div>
                 <div class="item">
@@ -2181,7 +2181,7 @@
             <div class="phonering-alo-ph-circle-1"></div>
             <div class="phonering-alo-ph-circle-fill-1"></div>
             <div class="phonering-alo-ph-img-circle-1">
-                <a class="pps-btn-img-1 " title="Liên hệ" href="https://zalo.me/0329188155" target="_blank"> <img
+                <a class="pps-btn-img-1 " title="Liên hệ" href="https://zalo.me/0399910005" target="_blank"> <img
                         src="/client/img/aaa-removebg-preview.png" alt="Liên hệ" width="50" class="img-responsive" />
                 </a>
             </div>
